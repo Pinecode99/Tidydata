@@ -58,6 +58,7 @@ The names can be simplified to a more readable format by the following transform
      - reduce to lower case
 	 - replace () with blank spaces
 	 - replace blank spaces with underscore characters
+	 - converted from scientific notation to standard numeric representation
 	 
 
 Tidydata_part1.csv is the result. The full transformation code is to be found in the script comments
