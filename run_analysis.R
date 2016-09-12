@@ -6,7 +6,7 @@
 
 #need these packages in addition to the basic
 library(dplyr)
-library(tidtr)
+library(tidyr)
 library(stringr)
 library(hms)
 
